@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorferify",
+        "uuid": 13796070,
+        "checksum": "jsbnca"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
